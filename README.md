@@ -22,16 +22,16 @@ The dataset used in generating this report is the 03 Diversity-Inclusion-Dataset
 ### Objectives
 ---
 The objective was to generate the following KPIs with a magnified focus on gender:
-	1. Hiring Rate
-	2. Promotion Pattern (FY21)
-	3. Turnover Rate
-	4. Performance Rate
-	5. Executive Gender Scale
-       6. Age Groups
+  1. Hiring Rate
+  2. Promotion Pattern (FY21)
+  3. Turnover Rate
+  4. Performance Rate
+  5. Executive Gender Scale
+  6. Age Group
 
 ### Methods
 ---
-The following tools were used in the creation of this report.
+The following tools were used to build this report:
 1. **Microsoft Excel:** For data cleaning and preparation.
        
 2. **Microsoft Power BI:**
