@@ -125,3 +125,6 @@ or
 
 ### Visualizations
 ---
+![Viz1](https://github.com/kayeneii/PwC-Diversity/blob/main/PWC_Pharma-Group-AG.png)
+
+![Viz2](https://github.com/kayeneii/PwC-Diversity/blob/main/PWC_Pharma-Group-AG1.png)
