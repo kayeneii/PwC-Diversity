@@ -5,7 +5,7 @@ This data analysis was conducted as part of the PricewaterhouseCooper (PwC) Job 
 [Dataset](#dataset)
 [Objectives](#objectives)
 [Methods](#methods)
-[Findings](#findings)
+[Discovery](#discovery)
 [Visualizations](#visualizations)
 
 ## Diversity and Inclusion KPIs for Pharma Group 
@@ -125,24 +125,24 @@ or
 3. **GitHub:** For portfolio building and communication.
 
 
-### Findings
+### Discovery
 ---
-1. **Findings:** The following findings were made:
-* Junior Officers made up the highest number of employees hired in the fiscal year 2020; 53.4% were female.
-* A total number of 16 employees were hired into executive postions with just 12.5% being female.
-* In sum, the ratio of male to female hires was 59:41 respectively.
-* 56.02% of employees promoted in the fiscal year 2021 were male.
-* Before promotions in FY 21, the average time employees spent on the job was 2.35 years.
-* 47 employees responsible for 10.06% of company's turnover, left the job in FY20; 26 males and 21 females.
-* The average rating of female employees was 2.11 while the males was 2.21 employees.
-* 3.41% of the total number of female employees were rated 4 and 41.95% were rated 2. (The data provided did not specify what these ratings mean.)
-* Similarly, 4.07% male employees got a 4 rating and 46.78% were rated 2. (The data provided did not specify what these ratings mean.)
-* The Strategy department holds the highest number of executives. All are male.
-* Females make up just 15.79% of the total number of employees and belong to the Sales & Marketing, HR, and Internal Services departments.
-* Majority of the employees fall within the age groups 20-29 and 30-39.
-* A small minority are between the ages 16-19 and are Junior Officers.
-* The Executive team of 16 is made up of 10 employees in the age bracket 40-49.
-* Only 4 employees are 60-69 years of age. 
+The following was discovered:
+ * Junior Officers made up the highest number of employees hired in the fiscal year 2020; 53.4% were female.
+ * A total number of 16 employees were hired into executive postions with just 12.5% being female.
+ * In sum, the ratio of male to female hires was 59:41 respectively.
+ * 56.02% of employees promoted in the fiscal year 2021 were male.
+ * Before promotions in FY 21, the average time employees spent on the job was 2.35 years.
+ * 47 employees responsible for 10.06% of company's turnover, left the job in FY20; 26 males and 21 females.
+ * The average rating of female employees was 2.11 while the males was 2.21 employees.
+ * 3.41% of the total number of female employees were rated 4 and 41.95% were rated 2. (The data provided did not specify what these ratings mean.)
+ * Similarly, 4.07% male employees got a 4 rating and 46.78% were rated 2. (The data provided did not specify what these ratings mean.)
+ * The Strategy department holds the highest number of executives. All are male.
+ * Females make up just 15.79% of the total number of employees and belong to the Sales & Marketing, HR, and Internal Services departments.
+ * Majority of the employees fall within the age groups 20-29 and 30-39.
+ * A small minority are between the ages 16-19 and are Junior Officers.
+ * The Executive team of 16 is made up of 10 employees in the age bracket 40-49.
+ * Only 4 employees are 60-69 years of age. 
 
 
 ### Visualizations
