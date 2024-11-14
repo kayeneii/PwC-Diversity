@@ -150,3 +150,9 @@ The following was discovered:
 ![Viz1](https://github.com/kayeneii/PwC-Diversity/blob/main/PWC_Pharma-Group-AG.png)
 
 ![Viz2](https://github.com/kayeneii/PwC-Diversity/blob/main/PWC_Pharma-Group-AG1.png)
+
+
+### Conclusion
+---
+You made it to the end of the Pharma Group Diversity & Inclusion analysis.🥳
+Until my next report, you may find me [here.](https://www.linkedin.com/in/kayeneii/) I look forward to hearing from you.😄
