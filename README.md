@@ -11,7 +11,7 @@ This data analysis was conducted as part of the PricewaterhouseCooper (PwC) Job 
 ## Diversity and Inclusion KPIs for Pharma Group 
 ### Overview
 ---
-This analysis of Pharma Group's employee data was conducted with a focus on understanding diversity and inclusion pattern in the company's hiring and promotion actions.The goal was to measure gender balance at said company.
+This analysis of Pharma Group's employee data was conducted with a focus on understanding diversity and inclusion pattern in the company's hiring and promotion process. The goal was to visually communicate my findings as relates gender and other key performance indicators across the organization.
 
 
 ### Dataset
